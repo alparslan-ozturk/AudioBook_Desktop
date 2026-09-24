@@ -1,0 +1,6 @@
+# XTTS Sesli Kitap - requirements
+# Torch CUDA ayri kurulur (setup_gui.py icinde), burada sabit pinler var
+TTS==0.22.0
+transformers==4.36.0
+soundfile
+numpy==1.26.4
